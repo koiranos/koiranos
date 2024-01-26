@@ -46,61 +46,61 @@
 </p>
 
 ## Languages
-<a href="#">
+<a href="https://github.com/koiranos">
     <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   </a>  
-<a href="#">
+<a href="https://github.com/koiranos">
     <img src="svg/dev/languages/dart.svg" alt="dart" style="vertical-align:top; margin:6px 4px">
   </a>
-<a href="#">
+<a href="https://github.com/koiranos">
     <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a> 
-<a href="#">
+<a href="https://github.com/koiranos">
     <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>  
   
 ## Frameworks
-<a href="#">
+<a href="https://github.com/koiranos">
     <img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
   </a>
-<a href="#">
+<a href="https://github.com/koiranos">
     <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
   </a>
-<a href="#">
+<a href="https://github.com/koiranos">
     <img src="svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
   </a>
-<a href="#">
+<a href="https://github.com/koiranos">
     <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
   </a>
-<a href="#">
+<a href="https://github.com/koiranos">
     <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
   </a>
   
 ## Tools
-<a href="#">
+<a href="https://github.com/koiranos">
     <img src="svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px">
   </a>
-<a href="#">
+<a href="https://github.com/koiranos">
     <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
   </a>
-<a href="#">
+<a href="https://github.com/koiranos">
     <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a>
-<a href="#">
+<a href="https://github.com/koiranos">
     <img src="svg/dev/tools/xcode.svg" alt="xcode" style="vertical-align:top; margin:6px 4px">
   </a>
-<a href="#">
+<a href="https://github.com/koiranos">
     <img src="svg/dev/tools/g_develop.svg" alt="g_develop" style="vertical-align:top; margin:6px 4px">
   </a>
-<a href="#">
+<a href="https://github.com/koiranos">
     <img src="svg/art/tools/photoshop.svg" alt="photoshop" style="vertical-align:top; margin:6px 4px">
   </a>  
-<a href="#">
+<a href="https://github.com/koiranos">
     <img src="svg/art/tools/illustrator.svg" alt="illustrator" style="vertical-align:top; margin:6px 4px">
   </a>
-<a href="#">
+<a href="https://github.com/koiranos">
     <img src="svg/art/tools/after_effects.svg" alt="after_effects" style="vertical-align:top; margin:6px 4px">
   </a>
-<a href="#">
+<a href="https://github.com/koiranos">
     <img src="svg/art/tools/3ds_max.svg" alt="3ds_max" style="vertical-align:top; margin:6px 4px">
   </a>
