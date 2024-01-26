@@ -104,3 +104,21 @@
 <a href="#">
     <img src="svg/dev/tools/%203ds_max.svg" alt="3ds_max" style="vertical-align:top; margin:6px 4px">
   </a>
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="#">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koiranos&theme=gruvbox" alt="Panagiotakis GitHub Contribution"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koiranos&theme=gruvbox" alt="Panagiotakis repositories per language"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=koiranos&theme=gruvbox" alt="Panagiotakis statistics"/>
+  </a>
+</p>
+
