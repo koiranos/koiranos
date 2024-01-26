@@ -28,7 +28,7 @@
     <img src="svg/social/facebook.svg" alt="facebook" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="https://www.deviantart.com/panagiotakis" target="_blank">
-    <img src="svg/social/deviantart.svg" alt="deviantart" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/services/deviantart.svg" alt="deviantart" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
