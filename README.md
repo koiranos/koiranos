@@ -90,17 +90,17 @@
     <img src="svg/dev/tools/%20xcode.svg" alt="xcode" style="vertical-align:top; margin:6px 4px">
   </a>
 <a href="#">
-    <img src="svg/dev/tools/%20g_develop.svg" alt="g_develop" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/tools/%20gdevelop.svg" alt="g_develop" style="vertical-align:top; margin:6px 4px">
   </a>
 <a href="#">
-    <img src="svg/art/tools/%20photoshop.svg" alt="photoshop" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/tools/%20photoshop.svg" alt="photoshop" style="vertical-align:top; margin:6px 4px">
   </a>  
 <a href="#">
-    <img src="svg/art/tools/%20illustrator.svg" alt="illustrator" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/tools/%20illustrator.svg" alt="illustrator" style="vertical-align:top; margin:6px 4px">
   </a>
 <a href="#">
-    <img src="svg/art/tools/%20after_effects.svg" alt="after_effects" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/tools/%20after_effects.svg" alt="after_effects" style="vertical-align:top; margin:6px 4px">
   </a>
 <a href="#">
-    <img src="svg/art/tools/%203ds_max.svg" alt="3ds_max" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/tools/%203ds_max.svg" alt="3ds_max" style="vertical-align:top; margin:6px 4px">
   </a>
