@@ -38,7 +38,7 @@
 <p>
  <!--<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />-->
   
-👔 &emsp; I am currently working as a <i>Front-end Softaware Developer</i> at Blue1 IOT <br/><br/>
+👔 &emsp; I am currently working as a <i>Front-end Softaware Developer</i> at DotSoft SA <br/><br/>
  ❤️ &emsp; On my free time I love to read, create 3D Visualizations and solve mysteries <br/><br/>
  📧 &emsp; Reach me anytime: <a href="mailto:panagiotakiskostas@gmail.com" title="panagiotakiskostas@gmail.com">
     <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
